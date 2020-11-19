@@ -3,4 +3,5 @@ This Repository contains all the major projects carried out and completed by me 
 
 2 Main Project Branches:
 1. Maritime Border Indication Device - https://github.com/manojmadhav19/mybtechprojects/tree/CAN-Data-Logger
-2. CAN Data Logger for X-Ray Machine (Final Year Thesis) - https://github.com/manojmadhav19/mybtechprojects/tree/Maritime-Border-Indication-Device
+2. CAN Data Logger for X-Ray Machine (Siemens Healthineers | Final Year Thesis) - 
+https://github.com/manojmadhav19/mybtechprojects/tree/Maritime-Border-Indication-Device
